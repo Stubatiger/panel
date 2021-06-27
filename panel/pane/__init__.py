@@ -11,6 +11,7 @@ from .base import PaneBase, Pane, panel # noqa
 from .equation import LaTeX # noqa
 from .deckgl import DeckGL # noqa
 from .echarts import ECharts # noqa
+from .neovis import NeoVis #noqa
 from .holoviews import HoloViews, Interactive # noqa
 from .idom import IDOM # noqa0
 from .ipywidget import IPyWidget # noqa
